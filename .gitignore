@@ -1,0 +1,4 @@
+releases/
+*.zip
+__pycache__/
+.claude/
